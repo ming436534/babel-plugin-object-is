@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-object-is",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Babel plugin to replace Object.is with the polyfill",
   "scripts": {
     "test": "mocha --recursive"
