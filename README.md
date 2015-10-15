@@ -1,11 +1,13 @@
 # babel-plugin-object-is
 
-Still rough. Bear with me.
+Replaces instances of `Object.is` with a polyfill (`object-is` on npm).
+
+[![Circle CI](https://circleci.com/gh/nhunzaker/babel-plugin-object-is.svg?style=svg)](https://circleci.com/gh/nhunzaker/babel-plugin-object-is)
 
 ## Usage
 
 ```
-$ npm install babel babel-core babel-plugin-object-assign
+$ npm install babel babel-core babel-plugin-object-is
 ```
 
 _Note:_ you need to specify `babel-core` as a dependency for your
