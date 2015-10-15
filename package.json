@@ -1,0 +1,29 @@
+{
+  "name": "babel-plugin-object-is",
+  "version": "0.0.1",
+  "description": "Babel plugin to replace Object.is with the polyfill",
+  "author": {
+    "name": "Nate Hunzaker"
+  },
+  "license": "MIT",
+  "repository": {
+    "type":"git",
+    "url": "https://github.com/nhunzaker/babel-plugin-object-is"
+  },
+  "devDependencies": {
+    "babel": "^5.6.0"
+  },
+  "peerDependencies": {
+    "babel-core": ">=5.6.0",
+    "object-is": ">=1.0.1"
+  },
+  "main": "lib/index.js",
+  "scripts": {},
+  "keywords": [
+    "babel",
+    "babel-plugin",
+    "object",
+    "is",
+    "polyfill"
+  ]
+}
