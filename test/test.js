@@ -1,1 +1,0 @@
-Object.is('foo', 'bar')
