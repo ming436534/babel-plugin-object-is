@@ -1,5 +1,7 @@
 # babel-plugin-object-is
 
+**Important: This is still pretty untested. Consider using with caution.**
+
 Replaces instances of `Object.is` with a polyfill (`object-is` on npm).
 
 [![Circle CI](https://circleci.com/gh/nhunzaker/babel-plugin-object-is.svg?style=svg)](https://circleci.com/gh/nhunzaker/babel-plugin-object-is)
